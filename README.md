@@ -75,23 +75,23 @@ npm run dev
 ## Screenshots
 - Splash Screen
 
-![Splash Screen](https://github.com/MaidaKosser/GSG/blob/main/public/Login.png)
+![Splash Screen](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/SplashPage.png)
 
 - Register
   
-![Register](https://github.com/MaidaKosser/GSG/blob/main/public/Login.png)
+![Register Screen](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/RegisterPage.png)
 
 - Login
   
-![Login](https://github.com/MaidaKosser/GSG/blob/main/public/Login.png)
+  ![Login Page](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/LoginPage.png)
 
 - User Dashboard
   
-![User Dashboard](https://github.com/MaidaKosser/GSG/blob/main/public/Home.png)
+![User Dashboard](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/UserDashboard.png)
 
 - Admin Dashboard
-  
-![Admin](https://github.com/MaidaKosser/GSG/blob/main/public/Admin.png)
+
+![Admin Dashboard](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/AdminDashboard.png)
 
 
 
