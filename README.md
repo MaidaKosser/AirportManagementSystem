@@ -1,16 +1,97 @@
-# React + Vite
+# Airport Management System (React + Vite)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Tailwind](https://img.shields.io/badge/Tailwind-7952B3?style=flat&logo=tailwind&logoColor=white)](https://gettailwind.com/)
+[![Local Storage](https://img.shields.io/badge/Local%20Storage-Data%20Persistence-green?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![AOS](https://img.shields.io/badge/AOS-Animation-orange?style=flat)](https://michalsnik.github.io/aos/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+Airport Management System is a frontend-only React project that simulates a real airport management portal. It includes User and Ticket management, ticket booking, and flight viewing, all handled locally with Context API and optionally localStorage. This project emphasizes component-based architecture, responsive design, and clean UI, while demonstrating modern React practices.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Splash Screen with smooth transition to login/dashboard             
+- User Authentication (Frontend-only) using Context API
+- User CRUD: Add, View, Edit, Delete users
+- Ticket CRUD: Add, View, Edit, Delete tickets
+- Booking System: Link users to tickets and view booked flights
+- Flight View: Show all available flights with details like time, gate, and status
+- Context API for State Management: No prop drilling
+- Responsive Design: Works perfectly on mobile and desktop
+- Reusable Components: Buttons, forms, modals, cards
+- Form Validation & UX: Error handling, confirmation modals, notifications
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 18 + Vite
+- Context API for global state
+- React Router v6 for navigation
+- Tailwind CSS for styling
+- React-Toastify
+- Local Storage API
+- CSS3 / Flexbox / Grid
+
+
+## Live Preview: 
+
+https://drive.google.com/file/d/1GvXLcnYrqibTLYvPZLwTiFfuJAihqcSe/view?usp=drivesdk
+
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/MaidaKosser/AirportManagementSystem.git
+```
+
+### 2️⃣ Open the Project Folder
+```bash
+cd AirportManagementSystem
+```
+
+## 3️⃣ Install Dependencies
+```bash
+npm install
+```
+
+## 4️⃣ Start the Development Server
+```bash
+npm run dev
+```
+
+## 5️⃣ Open in Browser
+```
+ http://localhost:5173/
+```
+
+## Notes
+- Designed and developed with passion ❤️ by MK
+- All CRUD and booking functionalities are managed with Context API.
+- Optional: Use localStorage to persist data across refresh.
+- Focused on practical UX for airport operations simulation.
+- Developed as a frontend-only project; no backend/API integration required.
+
+## Screenshots
+- Splash Screen
+
+![Splash Screen](https://github.com/MaidaKosser/GSG/blob/main/public/Login.png)
+
+- Register
+  
+![Register](https://github.com/MaidaKosser/GSG/blob/main/public/Login.png)
+
+- Login
+  
+![Login](https://github.com/MaidaKosser/GSG/blob/main/public/Login.png)
+
+- User Dashboard
+  
+![User Dashboard](https://github.com/MaidaKosser/GSG/blob/main/public/Home.png)
+
+- Admin Dashboard
+  
+![Admin](https://github.com/MaidaKosser/GSG/blob/main/public/Admin.png)
+
+
+
