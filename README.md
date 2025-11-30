@@ -89,6 +89,10 @@ npm run dev
   
 ![User Dashboard](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/UserDashboard.png)
 
+- User Bookings
+  
+![User Bookings](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/MyBookings.png)
+
 - Admin Dashboard
 
 ![Admin Dashboard](https://github.com/MaidaKosser/AirportManagementSystem/blob/main/public/AdminDashboard.png)
