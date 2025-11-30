@@ -5,8 +5,6 @@
 [![Tailwind](https://img.shields.io/badge/Tailwind-7952B3?style=flat&logo=tailwind&logoColor=white)](https://gettailwind.com/)
 [![Local Storage](https://img.shields.io/badge/Local%20Storage-Data%20Persistence-green?style=flat)](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![AOS](https://img.shields.io/badge/AOS-Animation-orange?style=flat)](https://michalsnik.github.io/aos/)
-
 
 ## Description
 Airport Management System is a frontend-only React project that simulates a real airport management portal. It includes User and Ticket management, ticket booking, and flight viewing, all handled locally with Context API and optionally localStorage. This project emphasizes component-based architecture, responsive design, and clean UI, while demonstrating modern React practices.
@@ -37,8 +35,9 @@ Airport Management System is a frontend-only React project that simulates a real
 
 ## Live Preview: 
 
-https://drive.google.com/file/d/1GvXLcnYrqibTLYvPZLwTiFfuJAihqcSe/view?usp=drivesdk
+https://drive.google.com/file/d/1mq112YgZ3vYS2qWD6CjeVesqOzNWfvMZ/view?usp=sharing
 
+##
 
 ### 1️⃣ Clone the Repository
 ```bash
